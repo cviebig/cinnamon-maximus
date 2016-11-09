@@ -1,0 +1,15 @@
+ cinnamon maximus
+==================
+
+Fork of the Cinnamon desktop environment extension `cinnamon-maximus` by fmete
+[1].
+
+ Install
+---------
+
+Extract to `~/.local/share/cinnamon/extensions/cinnamon-maximus@fmete`.
+
+ Links
+-------
+
+[1] https://cinnamon-spices.linuxmint.com/extensions/view/29
